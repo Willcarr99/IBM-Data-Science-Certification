@@ -12,5 +12,5 @@ Primary programming languages used: Python and SQL
 ## Course 6: Databases and SQL for Data Science with Python (20 hours)
 ## Course 7: Data Analysis with Python (In Progress)
 ## Course 8: Data Visualization with Python
-## Course 9: Machine Learning with Python
+## Course 9: Machine Learning with Python (12 hours)
 ## Course 10: Applied Data Science Capstone
